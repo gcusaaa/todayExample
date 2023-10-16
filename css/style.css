@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+}
+.container {
+    background-color: darkblue;
+
+}
+.container p{
+    color: white;
+}
